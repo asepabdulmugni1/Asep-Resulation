@@ -1,4 +1,7 @@
 RENCANA ASEP
 
 1.Membuat Cloning Dana
+ *membuat tampilan awal/homd
+ *membuat tampilan pesan
+ *membuat tampilan Saldo
 2.Membuat Cloning Gopay
