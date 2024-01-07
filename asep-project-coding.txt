@@ -1,8 +1,10 @@
 RENCANA ASEP
 
 1.Membuat Cloning Dana
- *membuat tampilan awal/homd
+ *membuat tampilan awal/home
  *membuat tampilan pesan
  *membuat tampilan Saldo
+ a.framework yang di gunakan:Bootstrap 5
 2.Membuat Cloning Gopay
 3.Membuat Cloning IG
+4.Membuat Cloning Facebook
