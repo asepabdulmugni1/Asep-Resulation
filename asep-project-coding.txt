@@ -4,5 +4,5 @@ RENCANA ASEP
  *membuat tampilan awal/homd
  *membuat tampilan pesan
  *membuat tampilan Saldo
+ a.Framework yang di gunakan:Tailwind CSS
 2.Membuat Cloning Gopay
-3.Membuat Cloning IG
